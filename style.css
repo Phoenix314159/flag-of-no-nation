@@ -1,0 +1,57 @@
+.square{
+  position:absolute;
+  height:180px;
+  width:180px;
+  background-color: pink;
+
+}
+
+.square0{
+  position:absolute;
+  height:140px;
+  width:140px;
+  background-color: orange;
+
+
+}
+
+.square1{
+  position:absolute;
+  height:100px;
+  width:100px;
+  background-color: cyan;
+
+
+}
+.square2{
+  position:absolute;
+  height:60px;
+  width:60px;
+  background-color: brown;
+
+}
+
+.banner-blue{
+
+  height: 25vh;
+  width: 100vw;
+  background-color: blue;l
+  position: relative;
+}
+.banner-red{
+  height: 25vh;
+  width: 100vw;
+  background-color: red;
+
+
+}
+.banner-yellow{
+  height: 25vh;
+  width: 100vw;
+  background-color: yellow;
+}
+.banner-green{
+  height: 25vh;
+  width: 100vw;
+  background-color: green;
+}
